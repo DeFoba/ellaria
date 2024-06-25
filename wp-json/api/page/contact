@@ -1,0 +1,36 @@
+{
+    "contacts": {
+      "title": [
+        {
+          "row": "Interested in"
+        },
+        {
+          "row": "activating the WORLD?"
+        }
+      ],
+      "subtitle": "Reach out anytime.",
+      "careers": {
+        "title": "Careers",
+        "text": "We're expanding our team! Interested in joining a growing, dynamic, multi-disciplinary team? We are always looking for new talent!",
+        "link": {
+          "title": "Find out more",
+          "url": "https://www.linkedin.com/company/ellaria-world",
+          "target": "_blank"
+        }
+      }
+    },
+    "seo_meta": {
+      "title": "",
+      "title_template": "",
+      "description": "",
+      "image": false
+    },
+    "post_categories": [],
+    "post_tags": [],
+    "slug": "contact",
+    "post_type": "page",
+    "post_title": "Contact",
+    "post_date": "2022-09-08 12:56:24",
+    "post_modified": "2024-02-13 12:05:28",
+    "id": 123
+  }

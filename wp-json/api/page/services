@@ -1,0 +1,118 @@
+{
+    "welcome": {
+      "text": [
+        {
+          "acf_fc_layout": "text",
+          "text": "Our expertise can be broken down into "
+        },
+        {
+          "acf_fc_layout": "italic_text",
+          "italic_text": "two categories"
+        },
+        {
+          "acf_fc_layout": "text",
+          "text": ". In both streams, we provide the infrastructure to produce "
+        },
+        {
+          "acf_fc_layout": "italic_text",
+          "italic_text": "the desired output"
+        },
+        {
+          "acf_fc_layout": "text",
+          "text": "."
+        }
+      ]
+    },
+    "services": {
+      "first_service": {
+        "title": {
+          "first_line": "ELLARIA",
+          "second_line": "Bot"
+        },
+        "description": "We connect users with Ellaria on Telegram to revolutionize their conversational experiences. From tailored interactions to dynamic dialogues, Ellaria ensures every chat is memorable. Comprehensive engagement, from start to finish, is our promise."
+      },
+      "second_service": {
+        "title": {
+          "first_line": "Marketing",
+          "second_line": "Services"
+        },
+        "description": "Our marketplace services can help grow your business online. We can help create go-to-market strategies and collateral for retail and e-commerce real estate.",
+        "list": [
+          {
+            "title": "E-commerce",
+            "description": "Full-fledged marketplace services include auditing, competitor scoping, performance analytics and advertising. This is an end-to-end service for marketplace management online."
+          },
+          {
+            "title": "Retail Loop",
+            "description": "We can develop a go-to-market strategy and work with your sales and marketing teams to find the best fit. We can create online and offline executions, events and tools to utilise in the channel."
+          }
+        ]
+      }
+    },
+    "powered": {
+      "subtitle": [
+        {
+          "acf_fc_layout": "text",
+          "text": "We offer end-to-end services.\r\nAll projects are powered by "
+        },
+        {
+          "acf_fc_layout": "italic_text",
+          "italic_text": "The Studios "
+        },
+        {
+          "acf_fc_layout": "text",
+          "text": "and "
+        },
+        {
+          "acf_fc_layout": "italic_text",
+          "italic_text": "TheOperator"
+        },
+        {
+          "acf_fc_layout": "text",
+          "text": "."
+        }
+      ],
+      "first_block": {
+        "title": "The Studios",
+        "description": [
+          {
+            "text": "The WORLD Studios are where the magic happens. This is how we can take care of the creative production process from beginning to end."
+          },
+          {
+            "text": "Our creative capabilities are a baseline for all client workstreams and projects. We can create any given output at scale by bringing together asset production and smart processes."
+          },
+          {
+            "text": "You can leverage The Studios at any time at the capacity you need — from small ad-hoc requests to mass production and everything in between."
+          }
+        ]
+      },
+      "second_block": {
+        "title": "TheOperator",
+        "description": [
+          {
+            "text": "The WORLD Operator is our branch that handles marketing operations and is the backbone of all projects."
+          },
+          {
+            "text": "It serves as the marketing operations function of the business. These services are there to increase efficiency and drive results in sales and marketing. This is done by creating alignment and order, supporting sales and the brand. This includes the people, process and technology that enable marketing to efficiently scale with quality and consistency to provide the targeted ROI."
+          },
+          {
+            "text": "The Operator is available for you to leverage at any time at the capacity you need."
+          }
+        ]
+      }
+    },
+    "seo_meta": {
+      "title": "",
+      "title_template": "",
+      "description": "",
+      "image": false
+    },
+    "post_categories": [],
+    "post_tags": [],
+    "slug": "faq",
+    "post_type": "page",
+    "post_title": "Services",
+    "post_date": "2022-07-31 20:52:39",
+    "post_modified": "2024-02-13 12:32:10",
+    "id": 73
+  }

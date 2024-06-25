@@ -1,0 +1,99 @@
+{
+    "welcome_section": {
+      "title": "WELCOME\r\nTO\r\nELLARIA WORLD",
+      "theses": "Blending Conversational Artistry\r\n& Advanced Tech"
+    },
+    "manifesto": {
+      "text": "We lead in conversational AI dynamics.\r\n\r\nEllaria stands as a pillar amidst your tech, engagement, and innovation squads.\r\n\r\nEmpower your digital dialogue, elevate interaction, and enrich user experience.",
+      "sign": {
+        "first": "Pioneering Precision",
+        "second": "Boundless Engagement"
+      }
+    },
+    "marquee": {
+      "static_text": "GENUINELY SEAMLESS ",
+      "link": {
+        "title": "INTERACTIONS.",
+        "url": "/services/",
+        "target": ""
+      },
+      "marquee_text": "ALL YOUR DIGITAL COMPANION REQUIRES. ALL YOUR CONVERSATIONAL AMBITIONS DESIRE. EVERY TOOL FOR ENGAGING DIALOGUES AWAITS. EVERY ELEMENT FOR AI-DRIVEN INTERACTIONS."
+    },
+    "directions": {
+      "title": "ELLARIA WORLD ECOSYSTEM",
+      "first_direction": {
+        "title": "ELLARIA",
+        "subtitle": "Bot",
+        "description": "We connect users with Ellaria on Telegram to revolutionize their conversational experiences. From tailored interactions to dynamic dialogues, Ellaria ensures every chat is memorable. Comprehensive engagement, from start to finish, is our promise."
+      },
+      "second_direction": {
+        "title": "Marketing",
+        "subtitle": "Services",
+        "description": "Our marketplace services can help you grow your business online. We help create go-to-market strategies and collateral for retail and e-commerce real estate."
+      }
+    },
+    "directions_with_links": {
+      "title": "OUR METHODOLOGY",
+      "text": "The twin foundations that fuel Ellaria's prowess.\r\n\r\nYour conversation's depth and breadth are in your hands. Adaptability is central toEllaria's essence on Telegram.",
+      "first_direction": {
+        "title": {
+          "first_line": "",
+          "second_line": "STAKING"
+        },
+        "link": "/services#studios",
+        "description": "Stake $ELLA: Secure your assets, amplify your influence, and earn exclusive rewards within the Ellaria World ecosystem."
+      },
+      "second_direction": {
+        "title": {
+          "first_line": "",
+          "second_line": "DAO VOTING"
+        },
+        "link": "/services#operator",
+        "description": "Utilize your $ELLA tokens to participate in decentralized governance decisions. Shape the future of Ellaria World by casting your vote. Every voice matters in our collective evolution."
+      }
+    },
+    "dna": {
+      "header": {
+        "title": "We chart the path\r\nalongside you.",
+        "description": "We review your milestones, achievements, and vision. Based on this, we'll craft a roadmap tailored to Ellaria World's evolutionary trajectory."
+      },
+      "list": [
+        {
+          "text": "Taking existing tools and platforms to improve your processes and output."
+        },
+        {
+          "text": "Creating infrastructures from scratch if what you’re looking for doesn’t exist."
+        },
+        {
+          "text": "Working with you to find the most effective solutions."
+        }
+      ],
+      "footer": {
+        "title": "Adaptability\r\nis Ellaria's Essence.",
+        "description": "Our global consortium of AI specialists and conversational design maestros guarantees that Ellaria evolves and operates seamlessly, maintaining superior quality while catering to diverse and growing user needs.",
+        "link_button": {
+          "title": "Our Work",
+          "url": "/#",
+          "target": ""
+        }
+      }
+    },
+    "client": {
+      "title": "We work with",
+      "text": "These are some of the tools we use to build custom integrations. They enable us to automate processes and improve output while maintaining creativity and adaptability."
+    },
+    "seo_meta": {
+      "title": "",
+      "title_template": "%s",
+      "description": "",
+      "image": false
+    },
+    "post_categories": [],
+    "post_tags": [],
+    "slug": "home",
+    "post_type": "page",
+    "post_title": "Home",
+    "post_date": "2022-09-22 00:45:34",
+    "post_modified": "2024-02-13 12:17:06",
+    "id": 309
+  }

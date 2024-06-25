@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#Path-7_1_);}
+	.st1{fill:none;stroke:url(#Path-8_1_);}
+</style>
+<linearGradient id="Path-7_1_" gradientUnits="userSpaceOnUse" x1="-0.9988" y1="125.0262" x2="-1.0012" y2="124.0637" gradientTransform="matrix(1 0 0 -20 11 2500.5)">
+	<stop  offset="0" style="stop-color:#C380FF"/>
+	<stop  offset="1" style="stop-color:#64ADF2"/>
+</linearGradient>
+<line id="Path-7" class="st0" x1="10" y1="0" x2="10" y2="19.2"/>
+<linearGradient id="Path-8_1_" gradientUnits="userSpaceOnUse" x1="-102.513" y1="118.803" x2="-103.4866" y2="118.5596" gradientTransform="matrix(20 0 0 -10 2072 1205.5)">
+	<stop  offset="0" style="stop-color:#C380FF"/>
+	<stop  offset="1" style="stop-color:#64ADF2"/>
+</linearGradient>
+<polyline id="Path-8" class="st1" points="0.5,9.8 10,19.2 19.5,9.8 "/>
+</svg>

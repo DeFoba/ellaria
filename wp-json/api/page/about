@@ -1,0 +1,72 @@
+{
+    "welcome": {
+      "title": "MERGING CREATIVITY\r\nAND TECH USING SMART\r\nSYSTEMS",
+      "desctiprion": [
+        {
+          "text": "We get it — sometimes you know what you need but you’re not sure how to get there without over indexing on resources."
+        },
+        {
+          "text": "We can help with that."
+        }
+      ]
+    },
+    "amsterdam": {
+      "header": "Founded in 2020, the WORLD is an Amsterdam-based, globally operating creative and marketing agency offering a full suite of services to help brands develop and grow. Our resources and clients are based worldwide. The fast-growing core team has 18 passionate professionals, and we work with a dedicated (and carefully selected) global community of ±40 talented professionals and experts based in the US, Argentina, the Netherlands, and all the way to the Philippines. This network spans the world and can accommodate any level of demand.",
+      "text": "Don’t let our size fool you. We’re small but mighty. Flexibility and scalability are our strengths. We follow industry trends while grounding our work in marketing and business fundamentals.",
+      "left_text": "Our team is located all over the world which means we can work across time zones and we’re constantly running (like an OS).",
+      "right_text": "Our scalability assures our clients that we can deliver what is needed in a timely way."
+    },
+    "about": {
+      "title": [
+        {
+          "acf_fc_layout": "text",
+          "text": "What's behind\r\nthe "
+        },
+        {
+          "acf_fc_layout": "italic_text",
+          "italic_text": "name"
+        }
+      ],
+      "quote": {
+        "text": "An operating system (OS) is a program that manages a computer’s resources, especially the allocation of those resources among other programs. Unlike most programs, which complete a task and terminate, an operating system runs indefinitely and terminates only when the computer is turned off.",
+        "link": {
+          "title": "© Britannica",
+          "url": "https://www.britannica.com/technology/operating-system",
+          "target": "_blank"
+        }
+      },
+      "text": "Ultimately, that’s what we do for our clients. We act as an extension of the marketing team by providing the infrastructure needed (or working within existing infrastructures) for them to successfully execute their projects. By producing assets and maintaining processes, we’re able to evolve continuously with our clients."
+    },
+    "working_with": {
+      "title": [
+        {
+          "text": "Who we’re"
+        },
+        {
+          "text": "working with"
+        }
+      ],
+      "text": [
+        {
+          "text": "Our clients are comprised of multi-disciplinary teams with international reach. Brands we work with are industry leaders who step outside of the box. We also like to work across industries - from consumer tech to lifestyle and fashion."
+        },
+        {
+          "text": "We can work with start-ups to established brands and everything in between. Scalability and flexibility are two components that make up our foundation."
+        }
+      ]
+    },
+    "seo_meta": {
+      "title": "",
+      "title_template": "",
+      "description": "",
+      "image": false
+    },
+    "post_categories": [],
+    "post_tags": [],
+    "slug": "about",
+    "post_type": "page",
+    "post_title": "About",
+    "post_date": "2022-09-08 12:56:12",
+    "post_modified": "2024-02-13 12:00:14",
+    "id": 120
+  }

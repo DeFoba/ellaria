@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#Path-7_1_);}
+	.st1{fill:none;stroke:url(#Path-8_1_);}
+</style>
+<linearGradient id="Path-7_1_" gradientUnits="userSpaceOnUse" x1="-256.077" y1="131.0013" x2="-256.0795" y2="130.0013" gradientTransform="matrix(-0.7071 -0.7071 -14.1421 14.1421 1674.474 -2016.6233)">
+	<stop  offset="0" style="stop-color:#C380FF"/>
+	<stop  offset="1" style="stop-color:#64ADF2"/>
+</linearGradient>
+<line id="Path-7" class="st0" x1="2.9" y1="17.1" x2="17.1" y2="2.9"/>
+<linearGradient id="Path-8_1_" gradientUnits="userSpaceOnUse" x1="-115.2502" y1="130.2103" x2="-116.2502" y2="129.9603" gradientTransform="matrix(-14.1421 -14.1421 -7.0711 7.0711 -702.1118 -2554.7314)">
+	<stop  offset="0" style="stop-color:#C380FF"/>
+	<stop  offset="1" style="stop-color:#64ADF2"/>
+</linearGradient>
+<polyline id="Path-8" class="st1" points="17.1,17.1 17.1,2.9 2.9,2.9 "/>
+</svg>
