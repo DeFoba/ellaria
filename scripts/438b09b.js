@@ -351,8 +351,27 @@
                         I.hover = !0
                      }
                   }
-               }, [I._v(window.btn_docs)])
+               }, [I._v(window.btn_docs)]), I._v(" "),
+               
+               
+               
+               
+               
+               
+               h("a", {
+                  staticClass: "-h4 -normilize c-gradient",
+                  attrs: {
+                     href: "https://app.ellaria.world",
+                     style: "text-decoration: none !important;color: var(--c-white) !important;background-image: linear-gradient(90deg, var(--c-blue) 0%, var(--c-magenta) 33%, var(--c-blue) 66%, var(--c-blue) 100%) !important;background-size: 300% 100% !important;background-position: left center !important;-webkit-background-clip: text !important;background-clip: text !important;-webkit-text-fill-color: rgba(0,0,0,0) !important;text-fill-color: rgba(0,0,0,0) !important;",
+                  },
+                  nativeOn: {
+                     mouseover: function (t) {
+                        I.hover = !0
+                     }
+                  }
+               }, [I._v('Staking')]), I._v(" "),
                // ---------------------------------------------
+               
             
             
             ], 1)]), I._v(" "),

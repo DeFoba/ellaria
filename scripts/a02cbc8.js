@@ -2080,7 +2080,23 @@ var span_one_symb_3 = 'AI';
                         t.hover = !0
                      }
                   }
-               }, [t._v(window.btn_docs)])
+               }, [t._v(window.btn_docs)]), t._v(" "),
+
+
+
+               e("a", {
+                  staticClass: "-normilize c-gradient",
+                  attrs: {
+                     href: "https://app.ellaria.world",
+                     style: "text-decoration: none !important;color: var(--c-white) !important;background-image: linear-gradient(90deg, var(--c-blue) 0%, var(--c-magenta) 33%, var(--c-blue) 66%, var(--c-blue) 100%) !important;background-size: 300% 100% !important;background-position: left center !important;-webkit-background-clip: text !important;background-clip: text !important;-webkit-text-fill-color: rgba(0,0,0,0) !important;text-fill-color: rgba(0,0,0,0) !important;",
+                  
+                  },
+                  nativeOn: {
+                     mouseover: function (e) {
+                        t.hover = !0
+                     }
+                  }
+               }, [t._v("Staking")]), t._v(" "),
                // ------------------------------------------------------
                
                
@@ -2281,7 +2297,23 @@ var span_one_symb_3 = 'AI';
                         return o.$emit("close")
                      }
                   }
-               }, [c("span", [o._v(window.btn_docs)])])], 1)
+               }, [c("span", [o._v(window.btn_docs)])])], 1), o._v(" "),
+
+
+
+               c("div", [c("a", {
+                  staticClass: "-h2 -m-h4 -normilize c-gradient",
+                  attrs: {
+                     href: "https://app.ellaria.world",
+                     style: "text-decoration: none !important;color: var(--c-white) !important;background-image: linear-gradient(90deg, var(--c-blue) 0%, var(--c-magenta) 33%, var(--c-blue) 66%, var(--c-blue) 100%) !important;background-size: 300% 100% !important;background-position: left center !important;-webkit-background-clip: text !important;background-clip: text !important;-webkit-text-fill-color: rgba(0,0,0,0) !important;text-fill-color: rgba(0,0,0,0) !important;",
+                  
+                  },
+                  nativeOn: {
+                     click: function (t) {
+                        return o.$emit("close")
+                     }
+                  }
+               }, [c("span", [o._v('Staking')])])], 1)
                // ----------------------------------------------
             
             
